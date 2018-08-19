@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background1"
+    android:weightSum="10"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_weight="7"
+        android:id="@+id/imageView"
+        android:onClick="ImageListener"
+        android:layout_width="256dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/mypic"
+        android:contentDescription="@string/picdes" />
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/button"
+        android:onClick="ButtonListener"
+        android:layout_width="250dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center"
+        android:background="#22503e"
+        android:text="@string/button1"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#ffffff" />
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        >
+
+        <Button
+            android:id="@+id/button2"
+            android:onClick="ButtonListener"
+            android:layout_width="150dp"
+            android:layout_height="48dp"
+            android:layout_marginRight="5dp"
+            android:background="#53465b"
+            android:text="@string/button2"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/button3"
+            android:onClick="ButtonListener"
+            android:layout_width="150dp"
+            android:layout_height="48dp"
+            android:layout_marginLeft="5dp"
+            android:background="#6e6648"
+            android:text="@string/button3"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/button4"
+        android:onClick="ButtonListener"
+        android:layout_width="252dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:background="#a10222"
+        android:text="@string/button4"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+
+</LinearLayout>

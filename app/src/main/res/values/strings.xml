@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">My project</string>
+    <string name="picdes">developerpic</string>
+    <string name="button1">My CV</string>
+    <string name="button2">Registration</string>
+    <string name="button3">Login</string>
+    <string name="button4">Calculator</string>
+    <string name="myname">Md. Shahriar Islam</string>
+    <string name="pro">Programmer</string>
+    <string name="dev">Developer</string>
+    <string name="Gam">Gamer</string>
+    <string name="details">Details</string>
+    <string name="Education">Education</string>
+    <string name="Skill">Skill</string>
+    <string name="Skill1">Skill : </string>
+    <string name="Experience">Experience</string>
+    <string name="Contacts">Contacts</string>
+    <string name="aboutMe">About Me : </string>
+    <string name="about">First think I am programmer.\nI like to solve always new problem.\n
+                         My favourite programming language is java.\nI like spend more time with my laptop.\n
+                         Also I am developer of  java/java swing/Android.\nI want see my self a game developer.\n
+    </string>
+    <string name="family">Family :</string>
+    <string name="familydetails">Name        : Md. Shahriar Islam\n
+                                 Father Name : Md. Abdul Wahed\n
+                                 Mother Name : Nilufa Sultana\n
+                                 Address     : Cholkmukter,Naogaon,Rajshahi\n
+
+    </string>
+    <string name="education">Education :</string>
+    <string name="educationdetails">B.sc     :\n\tB.sc of cse. 2nd year 6th semester.\n
+                                 Hsc :\n\tExam year : 2016 \n\tGPA : 3.67
+                                 Ssc :\n\tExam year : 2014 \n\tGPA : 5.00
+                                 Jsc :\n\tExam year : 2011 \n\tGPA : 4.00
+
+    </string>
+
+    <string name="sklill_Details">
+
+        \nprogramming languages :\n
+\n
+   \t        1) C\n
+    \t      2) C++\n
+    \t   3) C#\n
+     \t      4) Java\n
+     \t      5) Javascript\n\n
+
+Developing Skill :\n\n
+
+           \t1) C console application\n
+           \t2) Unreal game engine with C++ and blueprint\n
+           \t3) Java console application\n
+           \t4) Java swing desktop application\n
+           \t5) Android studio with java\n\n
+
+Problem solving Skill :\n\n
+
+          \t1) urionlinejudge : https://www.urionlinejudge.com.br/judge/en/profile/143479\n
+          \t2) codeforces      : https://codeforces.com/profile/sompod44\n
+          \t3) hackerrank      : https://www.hackerrank.com/shahrearislam3\n\n
+
+Other Skill :\n\n
+
+          \t1) I do not have much time to learn new technology.\n
+          \t2) Fix Computer problem fastly.\n
+          \t3) photoshop.\n
+          \t4) webpage design.\n\n
+
+
+    </string>
+
+    <string name="experience_details">
+
+        \tI have experience with working java swing application,Android application and mysql database project.\n
+Check my previous project :\n\n
+
+\t\t1) https://github.com/sompod44\n
+\t\t2) https://www.youtube.com/channel/UC-SBFRj1PwcBQWeF8dPtScA\n\n
+    </string>
+    <string name="companyname">Sompod44Soft</string>
+    <string name="hint1">Enter your Name</string>
+    <string name="hint2">Enter your Email</string>
+    <string name="hint3">Enter your Phone</string>
+    <string name="hint4">Enter your Gender</string>
+    <string name="hint5">Enter your Username</string>
+    <string name="hint6">Enter your Password</string>
+    <string name="hint7">Enter your Password Again</string>
+    <string name="teamandcondition">I agree with condition.</string>
+    <string name="email">shahrearislam3@gmail.com</string>
+    <string name="location">MohammadPur,Dhaka,Bangladesh</string>
+</resources>
